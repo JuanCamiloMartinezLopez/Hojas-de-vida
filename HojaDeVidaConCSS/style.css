@@ -1,0 +1,32 @@
+body{
+    margin: 0;
+}
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0; 
+    overflow: hidden;
+    background-color:#000057;
+}
+
+nav ul li{
+    float: right;
+    
+}
+
+#Home{
+    float: left;
+    text-decoration-style: solid;
+}
+
+nav ul li a {
+    display: block;
+    color: whitesmoke;
+    text-align: center;
+    padding: 14px 40px;
+    text-decoration: none;
+}
+ 
+nav ul li a:hover {
+    background-color:#000069;
+}
